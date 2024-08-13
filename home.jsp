@@ -1,7 +1,7 @@
 <%-- 
     Document   : home
     Created on : 11 févr. 2024, 20:01:08
-    Author     : USER
+    Author     : Nary
 --%>
 
 <%@page import="com.mysql.jdbc.Connection"%>
